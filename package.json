@@ -1,6 +1,6 @@
 {
-  "name": "longzai",
-  "version": "1.0.0",
+  "name": "lgzai",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "longzai",
   "license": "MIT",
   "bin": {
-    "longzai": "index.js"
+    "Lz": "index.js"
   },
   "dependencies": {
     "commander": "^8.3.0",
